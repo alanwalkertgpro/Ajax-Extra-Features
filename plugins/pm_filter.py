@@ -681,16 +681,14 @@ async def cb_handler(client: Client, query: CallbackQuery):
         buttons = [[
             InlineKeyboardButton('⚚ ΛᎠᎠ MΞ ϮԾ YԾUᏒ GᏒԾUᎮ ⚚', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('💠 GᏒԾUᎮ 💠', url='https://t.me/malayalammoviesmms'),
-            InlineKeyboardButton('💠 CHΛИИΞL 💠', url='https://t.me/+0uC-iq68FaFjZGNl')
-            ],[
-            InlineKeyboardButton('💰 ᎮΛIᎠ ᎮᏒᎧᎷᎧϮIᎧИ 💰', callback_data='donation')
+            InlineKeyboardButton('💠 GᏒԾUᎮ 💠', url='https://t.me/cinemavilla_group'),
+            InlineKeyboardButton('💠 CHΛИИΞL 💠', url='https://t.me/cinemavilla_updates')         
             ],[
             InlineKeyboardButton('♻️ HΞLᎮ ♻️', callback_data='help'),
             InlineKeyboardButton('♻️ ΛBOUT ♻️', callback_data='about')
             ],[
             InlineKeyboardButton('💠 SΞΛᏒCH HΞᏒΞ 💠', switch_inline_query_current_chat='')
-        ]]
+        ]]  
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
             text=script.START_TXT.format(query.from_user.mention, temp.U_NAME, temp.B_NAME),
