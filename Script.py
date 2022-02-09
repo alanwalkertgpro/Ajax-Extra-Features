@@ -55,10 +55,12 @@ _𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 𝐖𝐢𝐭𝐡 𝐘𝐨𝐮𝐫 𝐂�
 
 ⪼ 𝐄𝐱𝐚𝐦𝐩𝐥𝐞 ›
 
-<code>/batch https://t.me/c/1749754594/332 https://t.me/c/1749754594/336</code>"""
+<code>/batch https://t.me/c/1749754594/332 https://t.me/c/1749754594/336</code>
+𝖬𝖺𝖽𝖾 𝖻𝗒 <a @CINEMAVILLA_GROUP /a>"""
     WHOIS_TXT ="""<b>WHOIS MODULE</b>
 Note:- Give a user details
-•/whois :-give a user full details"""
+•/whois :-give a user full details
+𝖬𝖺𝖽𝖾 𝖻𝗒 <a @CINEMAVILLA_GROUP /a>"""
     FUN_TXT ="""<b>Gᴀᴍᴇs</b> 
     
 <b>🎲 NOTHING MUCH JUST SOME FUN THINGS</b>
@@ -67,7 +69,8 @@ t𝗋𝗒 𝗍𝗁𝗂𝗌 𝖮𝗎𝗍:
 𝟤. /Throw 𝗈𝗋 /Dart - 𝖳𝗈 𝖬𝖺𝗄𝖾 Drat 
 3. /Runs - Jokes 
 4. /Goal or /Shoot - To Make A Goal Or Shoot
-5. /luck or /cownd - Spin the Lucky"""
+5. /luck or /cownd - Spin the Lucky
+𝖬𝖺𝖽𝖾 𝖻𝗒 <a @CINEMAVILLA_GROUP /a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and ᗩᒍᗩ᙭  will respond whenever a keyword is found the message
@@ -81,7 +84,8 @@ t𝗋𝗒 𝗍𝗁𝗂𝗌 𝖮𝗎𝗍:
 • /filter - <code>add a filter in chat</code>
 • /filters - <code>list all the filters of a chat</code>
 • /del - <code>delete a specific filter in chat</code>
-• /delall - <code>delete the whole filters in a chat (chat owner only)</code>"""
+• /delall - <code>delete the whole filters in a chat (chat owner only)</code>
+𝖬𝖺𝖽𝖾 𝖻𝗒 <a @CINEMAVILLA_GROUP /a>"""
     SONG_TXT = """<b>🎼Song Download🎼</b>
 Song Download Module, For Those Who Love Music
 
