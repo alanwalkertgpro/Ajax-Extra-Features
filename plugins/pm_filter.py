@@ -681,10 +681,10 @@ async def cb_handler(client: Client, query: CallbackQuery):
         buttons = [[
             InlineKeyboardButton('⚚ ΛᎠᎠ MΞ ϮԾ YԾUᏒ GᏒԾUᎮ ⚚', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('💠 GᏒԾUᎮ 💠', url='https://t.me/cinemavilla_group'),
-            InlineKeyboardButton('💠 CHΛИИΞL 💠', url='https://t.me/cinemavilla_updates')
+            InlineKeyboardButton('💠 GᏒԾUᎮ 💠', url='https://t.me/malayalammoviesmms'),
+            InlineKeyboardButton('💠 CHΛИИΞL 💠', url='https://t.me/+0uC-iq68FaFjZGNl')
             ],[
-            InlineKeyboardButton('💠 SHARE GROUP 💠', url='http://t.me/share/url?url=https://t.me/cinemavilla_group')
+            InlineKeyboardButton('💰 ᎮΛIᎠ ᎮᏒᎧᎷᎧϮIᎧИ 💰', callback_data='donation')
             ],[
             InlineKeyboardButton('♻️ HΞLᎮ ♻️', callback_data='help'),
             InlineKeyboardButton('♻️ ΛBOUT ♻️', callback_data='about')
@@ -822,7 +822,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "about":
         buttons= [[
-            InlineKeyboardButton('♥️ SԾUᏒCΞ ♥️', url='https://t.me/cinemavilla_group')
+            InlineKeyboardButton('♥️ SԾUᏒCΞ ♥️', url='https://github.com/Aadhi000/Ajax')
             ],[
             InlineKeyboardButton('🏠 𝗛𝗼𝗺𝗲 🏠', callback_data='start'),
             InlineKeyboardButton('🔐 𝗖𝗹𝗼𝘀𝗲 🔐', callback_data='close_data')
