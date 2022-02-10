@@ -377,6 +377,18 @@ To Get Sticker ID
  • 𝗆 = 𝗆𝗂𝗇𝗎𝗍𝖾𝗌
  • 𝗁 = 𝗁𝗈𝗎𝗋𝗌
  • 𝖽 = 𝖽𝖺𝗒𝗌"""
+    
+    LOG_CHANNELS_TXT = """➤ 𝐇𝐞𝐥𝐩:LOG CHANNELS
+    *Admin only:*
+- /logchannel: get log channel info
+- /setlog: set the log channel.
+- /unsetlog: unset the log channel.
+Setting the log channel is done by:
+- adding the bot to the desired channel (as an admin!)
+- sending /setlog in the channel
+- forwarding the /setlog to the group
+"""
+    
     CREATOR_REQUIRED = """❗<b>You have To Be The Group Creator To Do That.</b>"""
       
     INPUT_REQUIRED = "❗ **Arguments Required**"
