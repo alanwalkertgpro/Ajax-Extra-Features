@@ -1,9 +1,3 @@
-<p align="center">
-  <img src="assets/logo.jpg" alt="Ajax-Extra-FeaturesLogo">
-</p>
-<h1 align="center">
-  <b>LXR YOUTUBER-𝙴𝚇𝚃𝚁𝙰-𝙵𝙴𝙰𝚃𝚄𝚁𝙴𝚂</b>
-</h1>
 
 
 ## Features
@@ -51,7 +45,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/LXR-YOUTUBER-AMAL/Ajax-Extra-Features">
+<a href="https://heroku.com/deploy?template=https://github.com/Vaisakh9526574096/Ajax-Extra-Features">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
@@ -60,7 +54,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
-git clone https://github.com/LXR-YOUTUBER-AMAL/Ajax-V3
+git clone https://github.com/Vaisakh9526574096/Ajax-Extra-Features
 # Install Packages
 pip3 install -r requirements.txt
 Edit info.py with variables as given below then run bot
@@ -97,6 +91,6 @@ python3 bot.py
 • /broadcast - to broadcast a message to all Eva Maria users
 ```
 
-𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 ›› [LXR AMAL](https://t.me/malayalammoviesmmms)                                                                                                                                        
-𝙶𝚁𝙾𝚄𝙿 ›› [MM MOVIE GRP](https://t.me/malayalammoviesmms)                                             
-𝙲𝙷𝙰𝙽𝙽𝙴𝙻 ›› [MM OTT](https://t.me/+0uC-iq68FaFjZGNl)
+𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 ›› [alan walker tg](https://t.me/alanwaker_tg)                                                                                                                                        
+𝙶𝚁𝙾𝚄𝙿 ›› [cinema villa GRouP](https://t.me/cinemavilla_group)                                             
+𝙲𝙷𝙰𝙽𝙽𝙴𝙻 ›› [cinema villa updates](https://t.me/cinemavilla_updates)
