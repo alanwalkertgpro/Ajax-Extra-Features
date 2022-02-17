@@ -42,7 +42,7 @@ async def save_group(bot, message):
             ],
             [
                 InlineKeyboardButton('💠 GᏒԾUᎮ 💠', url='https://t.me/CINEMAVILLA_GROUP')
-            ]VILLA_GROUP
+            ]
             ]
         reply_markup=InlineKeyboardMarkup(buttons)
         await message.reply_text(
